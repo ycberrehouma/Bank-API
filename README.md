@@ -3,7 +3,7 @@
 <b><h2>Restful Bank APIs</h2></b>
 {The application includes Docker, using MongoDB as our database and written in Python}
 
-*Using bcrypt to encrypt passwords*
+*Using bcrypt to encrypt passwords*<br>
 <br>
 <b>The restful apis are (All POST):</b><br><br>
 /register/{username}/{password}<br>
